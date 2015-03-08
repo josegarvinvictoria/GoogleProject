@@ -1,0 +1,2 @@
+serviceClass: net.josegarvin.client.GreetingService
+path: 3F4699D6A81945B180E8A8E798A07A60.gwt.rpc
